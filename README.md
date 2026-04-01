@@ -1,12 +1,55 @@
-- Hi, I’m Gustavo Paz
-- I’m interested in learn how this world works. Eventually we meet people who simply wants to learn how to program, but i think that programming isn't just the language, but a creative capacity that is off the screen, that's what i'm looking for.
-- I’m currently entering in the the 4th semester of analysis and systems development college.
-- I’m looking to collaborate on open-source projects, educational initiatives, and any innovative project.
-- Feel free to add me on my LinkedIn page https://www.linkedin.com/in/gustnunespaz/ and instagram account https://www.instagram.com/gustnunespaz/
-- Fun fact about me is that i love to lean new things, for exemple, i a musician since 10 years old. I play guitar, bass and piano. I speak english and i'm leaning korean and esperanto.
+<h1 align="left">Hey, What's up? I'm Gustavo Paz (Gu)</h1>
 
-- It's a pleasure to learn with you!
-<!---
-gustavonunespaz/gustavonunespaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">I’m a Full Stack Developer from Curitiba, Brazil, currently in my 4th semester of Analysis and Systems Development. 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustnunespaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gustnunespaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+  ✨ <b>Creating bugs since:</b> I wrote my first line of code.<br>
+  📚 <b>I'm currently learning:</b> Advanced software architecture, scalable system design, and deepening my Node.js & TypeScript skills.<br>
+  🎯 <b>Goals:</b> Collaborate on open-source projects, educational initiatives, and innovative tech solutions.<br>
+  🎲 <b>Fun fact:</b> I've been a musician since I was 10 years old! When I'm not coding, you can find me playing guitar, bass, or piano! 
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"  />
+</div>
+
+###
