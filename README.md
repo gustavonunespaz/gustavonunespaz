@@ -1,8 +1,8 @@
-<h1 align="left">Hey, What's up? I'm Gustavo Paz</h1>
+<h1 align="left">Hey, What up? I'm Gustavo</h1>
 
 ###
 
-<p align="left">I’m a Full Stack Developer from Curitiba, Brazil, currently in my 4th semester of Analysis and Systems Development. 
+<p align="left">I’m a Full Stack Developer from Curitiba, Brazil, currently in my 5th semester of Analysis and Systems Development. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustnunespaz/" target="_blank">
@@ -20,10 +20,9 @@
 ###
 
 <p align="left">
-  <b>Creating bugs since:</b> I wrote my first line of code.<br>
-  <b>I'm currently learning:</b> Advanced software architecture, scalable system design, and deepening my Node.js & TypeScript skills.<br>
+  Creating bugs since I wrote my first line of code.<br>
+  I'm currently learning Advanced software architecture, scalable system design, and deepening my Node.js & TypeScript skills.<br>
   <b>Goals:</b> Collaborate on open-source projects, educational initiatives, and innovative tech solutions.<br>
-  <b>Fun fact:</b> I've been a musician since I was 10 years old! When I'm not coding, you can find me playing guitar, bass, or piano! 
 </p>
 
 ###
